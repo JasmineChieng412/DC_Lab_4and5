@@ -1,0 +1,44 @@
+C:\Users\User\Desktop\DC LABS\Lab2_Client\bin\Debug\Lab2_Client.exe.config
+C:\Users\User\Desktop\DC LABS\Lab2_Client\bin\Debug\Lab2_Client.exe
+C:\Users\User\Desktop\DC LABS\Lab2_Client\bin\Debug\Lab2_Client.pdb
+C:\Users\User\Desktop\DC LABS\Lab2_Client\bin\Debug\ConsoleApp1.exe
+C:\Users\User\Desktop\DC LABS\Lab2_Client\bin\Debug\DC LAB 2.dll
+C:\Users\User\Desktop\DC LABS\Lab2_Client\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\Desktop\DC LABS\Lab2_Client\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\Desktop\DC LABS\Lab2_Client\bin\Debug\DC LAB 2.pdb
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\App.g.cs
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client_MarkupCompile.cache
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client_MarkupCompile.lref
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.g.resources
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.Properties.Resources.resources
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.CopyComplete
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.exe
+C:\Users\User\Desktop\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.pdb
+E:\DC LABS\Lab2_Client\bin\Debug\Lab2_Client.exe.config
+E:\DC LABS\Lab2_Client\bin\Debug\Lab2_Client.exe
+E:\DC LABS\Lab2_Client\bin\Debug\Lab2_Client.pdb
+E:\DC LABS\Lab2_Client\bin\Debug\ConsoleApp1.exe
+E:\DC LABS\Lab2_Client\bin\Debug\DC LAB 2.dll
+E:\DC LABS\Lab2_Client\bin\Debug\ConsoleApp1.pdb
+E:\DC LABS\Lab2_Client\bin\Debug\ConsoleApp1.exe.config
+E:\DC LABS\Lab2_Client\bin\Debug\DC LAB 2.pdb
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.AssemblyReference.cache
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.SuggestedBindingRedirects.cache
+E:\DC LABS\Lab2_Client\obj\Debug\MainWindow.g.cs
+E:\DC LABS\Lab2_Client\obj\Debug\App.g.cs
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client_MarkupCompile.cache
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client_MarkupCompile.lref
+E:\DC LABS\Lab2_Client\obj\Debug\MainWindow.baml
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.g.resources
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.Properties.Resources.resources
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.GenerateResource.cache
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.CoreCompileInputs.cache
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.csproj.CopyComplete
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.exe
+E:\DC LABS\Lab2_Client\obj\Debug\Lab2_Client.pdb

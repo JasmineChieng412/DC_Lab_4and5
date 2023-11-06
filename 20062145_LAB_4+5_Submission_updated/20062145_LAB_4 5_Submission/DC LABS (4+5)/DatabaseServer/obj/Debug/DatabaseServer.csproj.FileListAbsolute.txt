@@ -1,0 +1,43 @@
+E:\DC LABS\DatabaseServer\bin\Debug\DatabaseServer.exe.config
+E:\DC LABS\DatabaseServer\bin\Debug\DatabaseServer.exe
+E:\DC LABS\DatabaseServer\bin\Debug\DatabaseServer.pdb
+E:\DC LABS\DatabaseServer\bin\Debug\DC LAB 2.dll
+E:\DC LABS\DatabaseServer\bin\Debug\DC LAB 2.pdb
+E:\DC LABS\DatabaseServer\obj\Debug\DatabaseServer.csproj.AssemblyReference.cache
+E:\DC LABS\DatabaseServer\obj\Debug\DatabaseServer.csproj.SuggestedBindingRedirects.cache
+E:\DC LABS\DatabaseServer\obj\Debug\DatabaseServer.csproj.CoreCompileInputs.cache
+E:\DC LABS\DatabaseServer\obj\Debug\DatabaseServer.csproj.CopyComplete
+E:\DC LABS\DatabaseServer\obj\Debug\DatabaseServer.exe
+E:\DC LABS\DatabaseServer\obj\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.exe.config
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DC LAB 2.dll
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DC LAB 2.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.CopyComplete
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.exe.config
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DC LAB 2.dll
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DC LAB 2.pdb
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.CopyComplete
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.exe.config
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DC LAB 2.dll
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\bin\Debug\DC LAB 2.pdb
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.csproj.CopyComplete
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\DatabaseServer\obj\Debug\DatabaseServer.pdb

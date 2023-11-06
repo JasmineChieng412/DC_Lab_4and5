@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\bin\Debug\net6.0\API Classes.deps.json
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\bin\Debug\net6.0\API Classes.dll
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\bin\Debug\net6.0\API Classes.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\obj\Debug\net6.0\API Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\obj\Debug\net6.0\API Classes.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\obj\Debug\net6.0\API Classes.AssemblyInfo.cs
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\obj\Debug\net6.0\API Classes.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\obj\Debug\net6.0\API Classes.dll
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\obj\Debug\net6.0\refint\API Classes.dll
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\obj\Debug\net6.0\API Classes.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\API Classes\obj\Debug\net6.0\ref\API Classes.dll

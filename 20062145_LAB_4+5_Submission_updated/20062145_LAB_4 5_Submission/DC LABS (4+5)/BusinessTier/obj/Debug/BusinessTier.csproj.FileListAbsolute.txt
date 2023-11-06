@@ -1,0 +1,55 @@
+E:\DC LABS\BusinessTier\bin\Debug\BusinessTier.exe.config
+E:\DC LABS\BusinessTier\bin\Debug\BusinessTier.exe
+E:\DC LABS\BusinessTier\bin\Debug\BusinessTier.pdb
+E:\DC LABS\BusinessTier\bin\Debug\DatabaseServer.exe
+E:\DC LABS\BusinessTier\bin\Debug\DC LAB 2.dll
+E:\DC LABS\BusinessTier\bin\Debug\DatabaseServer.pdb
+E:\DC LABS\BusinessTier\bin\Debug\DatabaseServer.exe.config
+E:\DC LABS\BusinessTier\bin\Debug\DC LAB 2.pdb
+E:\DC LABS\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+E:\DC LABS\BusinessTier\obj\Debug\BusinessTier.csproj.SuggestedBindingRedirects.cache
+E:\DC LABS\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+E:\DC LABS\BusinessTier\obj\Debug\BusinessTier.csproj.CopyComplete
+E:\DC LABS\BusinessTier\obj\Debug\BusinessTier.exe
+E:\DC LABS\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DC LAB 2.dll
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.exe.config
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DC LAB 2.pdb
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.CopyComplete
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\User\Downloads\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DC LAB 2.dll
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.exe.config
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DC LAB 2.pdb
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.CopyComplete
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\User\Downloads\20062145_LAB_6_Submission\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.pdb
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.exe.config
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.exe
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\BusinessTier.pdb
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.exe
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DC LAB 2.dll
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.pdb
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DatabaseServer.exe.config
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\bin\Debug\DC LAB 2.pdb
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.csproj.CopyComplete
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.exe
+C:\Users\User\Downloads\20062145_LAB_4+5_Submission_updated\20062145_LAB_4 5_Submission\DC LABS (4+5)\BusinessTier\obj\Debug\BusinessTier.pdb
